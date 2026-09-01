@@ -1,6 +1,6 @@
 
 cat > cloud-platform-comparison.md <<'EOF'
-# Cloud Platform Comparison
+# Checkpoint 3
 
 ## Comparison Table
 
@@ -51,7 +51,7 @@ EOF
 
 
 
-# Cloud Platform Comparison
+# Checkpoint 5
 
 | Service Category | AWS | Azure | GCP |
 |---|---|---|---|
