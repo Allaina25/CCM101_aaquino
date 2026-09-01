@@ -77,3 +77,17 @@ AWS is recommended for the global e-commerce company because it provides extensi
 ## Final Recommendation
 
 The four clients have different requirements, so there is no single cloud provider that is best for every scenario. AWS is recommended for the startup and global e-commerce company because of its broad services, scalability, and global infrastructure. Azure is the best fit for the university because of its Microsoft ecosystem integration. Google Cloud is the best fit for the AI research company because of its strong AI, machine-learning, data, and high-performance computing capabilities.
+
+
+
+
+## Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | Widest range of services, generous free-tier/startup credit programs (AWS Activate), and pay-as-you-go pricing that scales with limited upfront budget. |
+| Enterprise Organization | Azure | Deep integration with existing enterprise tools (Active Directory, Office 365), strong compliance/governance features, and flexible enterprise agreements/licensing. |
+| Microsoft Environment | Azure | Native, first-party integration with Windows Server, .NET, SQL Server, and Active Directory; simplest hybrid-cloud path for Microsoft-based stacks. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | Vertex AI, TPUs, and BigQuery ML give strong native ML tooling; GCP is widely regarded as the leader in data analytics and AI infrastructure. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | Kubernetes originated at Google; GKE is the most mature managed Kubernetes offering with the tightest upstream integration and automated cluster management. |
+| Global Web Application | AWS | Largest number of global regions and edge locations (via CloudFront), giving the broadest low-latency reach for a worldwide user base. |
